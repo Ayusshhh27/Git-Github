@@ -1,8 +1,11 @@
 Followed a tutorial about Git and Github.
 
-Learnt about
-- Added
-- Staged
-- Committed
+firstly learnt about why we need GIT and GITHUB.
 
-Learnt about Git ignore as well.
+Then Learnt about
+- Add
+- Stage
+- Commit
+
+Learnt about Git ignore.
+Learnt about Git stage and Git log.
